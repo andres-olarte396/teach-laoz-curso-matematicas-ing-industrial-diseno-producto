@@ -1,0 +1,2293 @@
+[
+  {
+    "modulo_id": "0",
+    "titulo": "Diagnóstico transversal y orientación",
+    "semana": 1,
+    "minutos": 0,
+    "minutos_integrados": 20,
+    "temas": [
+      {
+        "tema_id": "0.1",
+        "titulo": "Punto de partida y ruta personal",
+        "subtemas": [
+          {
+            "subtema_id": "0.1.1",
+            "titulo": "Diagnóstico breve de operaciones y lectura matemática",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 20,
+            "contabilizado_en": "1.1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "modulo_id": 1,
+    "titulo": "Fracciones: suma y resta",
+    "semana": 1,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Calcular sumas y restas de fracciones y justificar el denominador común",
+    "evidencia": "Ficha de medidas y operaciones verificadas",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D2:D8",
+      "tiempos": "Progresión!E2"
+    },
+    "prerrequisitos": [
+      "Diagnóstico 0.1.1 integrado"
+    ],
+    "temas": [
+      {
+        "tema_id": "1.1",
+        "titulo": "Fracciones: suma y resta",
+        "subtemas": [
+          {
+            "subtema_id": "1.1.1",
+            "titulo": "Equivalencias, simplificación y diagnóstico",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "1.1.2",
+            "titulo": "Suma y resta con denominador común",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "1.1.3",
+            "titulo": "Denominadores distintos y medidas fraccionarias",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "1.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "1.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "1.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "1.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "1.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "1.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 2,
+    "titulo": "Fracciones: multiplicación y división",
+    "semana": 2,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Resolver productos y cocientes de fracciones e interpretar el reparto",
+    "evidencia": "Cálculo de porciones y lotes",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D9:D15",
+      "tiempos": "Progresión!E3"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "2.1",
+        "titulo": "Fracciones: multiplicación y división",
+        "subtemas": [
+          {
+            "subtema_id": "2.1.1",
+            "titulo": "Multiplicar fracciones y simplificar productos",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "2.1.2",
+            "titulo": "Dividir fracciones y comprobar con el producto",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "2.1.3",
+            "titulo": "Cantidades de material y reparto en lotes",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "2.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "2.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "2.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "2.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "2.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "2.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 3,
+    "titulo": "Decimales y conversión entre fracciones y decimales",
+    "semana": 3,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Convertir fracciones y decimales y calcular medidas con unidades",
+    "evidencia": "Hoja de mediciones y error de redondeo",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D16:D22",
+      "tiempos": "Progresión!E4"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "3.1",
+        "titulo": "Decimales y conversión entre fracciones y decimales",
+        "subtemas": [
+          {
+            "subtema_id": "3.1.1",
+            "titulo": "Valor posicional y conversión de representaciones",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "3.1.2",
+            "titulo": "Operaciones con decimales y redondeo",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "3.1.3",
+            "titulo": "Mediciones, unidades y tolerancias",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "3.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "3.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "3.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "3.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "3.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "3.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 4,
+    "titulo": "Potenciación y radicación",
+    "semana": 4,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Aplicar reglas básicas de potencias y raíces a longitudes y áreas",
+    "evidencia": "Comparación de áreas y lados",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D23:D29",
+      "tiempos": "Progresión!E5"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "4.1",
+        "titulo": "Potenciación y radicación",
+        "subtemas": [
+          {
+            "subtema_id": "4.1.1",
+            "titulo": "Potencias, signos y orden de operaciones",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "4.1.2",
+            "titulo": "Raíces cuadradas y relación con potencias",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "4.1.3",
+            "titulo": "Áreas, cuadrados y estimación de raíces",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "4.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "4.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "4.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "4.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "4.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "4.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 5,
+    "titulo": "Notación científica y proporciones",
+    "semana": 5,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Expresar magnitudes y resolver proporciones conservando unidades",
+    "evidencia": "Plano a escala y conversiones",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D30:D36",
+      "tiempos": "Progresión!E6"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "5.1",
+        "titulo": "Notación científica y proporciones",
+        "subtemas": [
+          {
+            "subtema_id": "5.1.1",
+            "titulo": "Escritura y lectura en notación científica",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "5.1.2",
+            "titulo": "Razones y proporciones equivalentes",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "5.1.3",
+            "titulo": "Conversión de unidades y escalas de diseño",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "5.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "5.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "5.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "5.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "5.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "5.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 6,
+    "titulo": "Regla de tres y porcentajes",
+    "semana": 6,
+    "minutos_dia": 15,
+    "minutos": 105,
+    "objetivo": "Seleccionar proporcionalidad y calcular porcentajes en producción",
+    "evidencia": "Balance de material útil y desperdicio",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D37:D43",
+      "tiempos": "Progresión!E7"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "6.1",
+        "titulo": "Regla de tres y porcentajes",
+        "subtemas": [
+          {
+            "subtema_id": "6.1.1",
+            "titulo": "Proporcionalidad directa e inversa",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "6.1.2",
+            "titulo": "Porcentaje de una cantidad y variación",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "6.1.3",
+            "titulo": "Rendimiento, descuento y desperdicio",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 30,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "6.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "6.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "6.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "6.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 15,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "6.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 15,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "6.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 15,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 7,
+    "titulo": "Lenguaje algebraico y expresiones algebraicas",
+    "semana": 7,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Traducir situaciones a expresiones y evaluar valores dados",
+    "evidencia": "Modelo de costo con variables definidas",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D44:D50",
+      "tiempos": "Progresión!E8"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "7.1",
+        "titulo": "Lenguaje algebraico y expresiones algebraicas",
+        "subtemas": [
+          {
+            "subtema_id": "7.1.1",
+            "titulo": "Variables, signos y traducción verbal",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "7.1.2",
+            "titulo": "Evaluación y términos semejantes",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "7.1.3",
+            "titulo": "Expresiones de costo y consumo",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "7.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "7.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "7.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "7.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "7.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "7.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 20,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 8,
+    "titulo": "Operaciones con polinomios",
+    "semana": 8,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Operar polinomios y verificar equivalencias mediante sustitución",
+    "evidencia": "Desarrollo de expresión de área",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D51:D57",
+      "tiempos": "Progresión!E9"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "8.1",
+        "titulo": "Operaciones con polinomios",
+        "subtemas": [
+          {
+            "subtema_id": "8.1.1",
+            "titulo": "Suma y resta de polinomios",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "8.1.2",
+            "titulo": "Producto, distributiva y productos notables",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "8.1.3",
+            "titulo": "Área algebraica y comprobación numérica",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "8.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "8.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "8.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "8.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "8.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "8.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 20,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 9,
+    "titulo": "Factorización I (factor común, diferencia de cuadrados)",
+    "semana": 9,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Factorizar por factor común y diferencia de cuadrados",
+    "evidencia": "Expresiones factorizadas y verificadas",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D58:D64",
+      "tiempos": "Progresión!E10"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "9.1",
+        "titulo": "Factorización I (factor común, diferencia de cuadrados)",
+        "subtemas": [
+          {
+            "subtema_id": "9.1.1",
+            "titulo": "Extraer factor común numérico y literal",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "9.1.2",
+            "titulo": "Diferencia de cuadrados",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "9.1.3",
+            "titulo": "Elegir factor y comprobar desarrollando",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "9.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "9.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "9.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "9.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "9.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "9.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 20,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 10,
+    "titulo": "Factorización II (trinomios)",
+    "semana": 10,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Factorizar trinomios sencillos y verificar el producto",
+    "evidencia": "Selección razonada de factorización",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D65:D71",
+      "tiempos": "Progresión!E11"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "10.1",
+        "titulo": "Factorización II (trinomios)",
+        "subtemas": [
+          {
+            "subtema_id": "10.1.1",
+            "titulo": "Trinomio cuadrado perfecto",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "10.1.2",
+            "titulo": "Trinomios mónicos con factores enteros",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "10.1.3",
+            "titulo": "Trinomios no mónicos sencillos y comprobación",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 40,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "10.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "10.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "10.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "10.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 20,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "10.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 20,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "10.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 20,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 11,
+    "titulo": "Ecuaciones lineales de primer grado",
+    "semana": 11,
+    "minutos_dia": 25,
+    "minutos": 175,
+    "objetivo": "Resolver ecuaciones lineales y comprobar la solución en el enunciado",
+    "evidencia": "Presupuesto resuelto con ecuación",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D72:D78",
+      "tiempos": "Progresión!E12"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "11.1",
+        "titulo": "Ecuaciones lineales de primer grado",
+        "subtemas": [
+          {
+            "subtema_id": "11.1.1",
+            "titulo": "Igualdad, operaciones inversas y comprobación",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "11.1.2",
+            "titulo": "Paréntesis, fracciones y despejes",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "11.1.3",
+            "titulo": "Problemas de costo y producción",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "11.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "11.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "11.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "11.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "11.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "11.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 25,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 12,
+    "titulo": "Sistemas de ecuaciones lineales (2x2)",
+    "semana": 12,
+    "minutos_dia": 25,
+    "minutos": 175,
+    "objetivo": "Resolver un sistema 2x2 y validar ambos resultados",
+    "evidencia": "Composición de lote con dos productos",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D79:D85",
+      "tiempos": "Progresión!E13"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "12.1",
+        "titulo": "Sistemas de ecuaciones lineales (2x2)",
+        "subtemas": [
+          {
+            "subtema_id": "12.1.1",
+            "titulo": "Modelar dos incógnitas y sustitución",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "12.1.2",
+            "titulo": "Eliminación y comprobación doble",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "12.1.3",
+            "titulo": "Mezclas y combinación de productos",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 50,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "12.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "12.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "12.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "12.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 25,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "12.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 25,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "12.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 25,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 13,
+    "titulo": "Ecuaciones cuadráticas",
+    "semana": 13,
+    "minutos_dia": 30,
+    "minutos": 210,
+    "objetivo": "Resolver cuadráticas e interpretar qué raíces son admisibles",
+    "evidencia": "Dimensiones compatibles con un área",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D86:D92",
+      "tiempos": "Progresión!E14"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "13.1",
+        "titulo": "Ecuaciones cuadráticas",
+        "subtemas": [
+          {
+            "subtema_id": "13.1.1",
+            "titulo": "Factorización y principio del producto cero",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "13.1.2",
+            "titulo": "Fórmula general y discriminante",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "13.1.3",
+            "titulo": "Dimensiones de piezas y elección de raíces",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "13.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "13.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "13.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "13.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "13.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "13.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 30,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 14,
+    "titulo": "Funciones: concepto y función lineal",
+    "semana": 14,
+    "minutos_dia": 30,
+    "minutos": 210,
+    "objetivo": "Representar una función lineal e interpretar pendiente e intercepto",
+    "evidencia": "Tabla y gráfica de costos e ingresos",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D93:D99",
+      "tiempos": "Progresión!E15"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "14.1",
+        "titulo": "Funciones: concepto y función lineal",
+        "subtemas": [
+          {
+            "subtema_id": "14.1.1",
+            "titulo": "Entrada, salida, dominio y tablas",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "14.1.2",
+            "titulo": "Pendiente, intercepto y representación gráfica",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "14.1.3",
+            "titulo": "Costo lineal y punto de equilibrio",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "14.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "14.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "14.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "14.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "14.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "14.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 30,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 15,
+    "titulo": "Función cuadrática y otras funciones",
+    "semana": 15,
+    "minutos_dia": 30,
+    "minutos": 210,
+    "objetivo": "Interpretar funciones sencillas y seleccionar un modelo según datos",
+    "evidencia": "Comparación de modelos gráficos",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D100:D106",
+      "tiempos": "Progresión!E16"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "15.1",
+        "titulo": "Función cuadrática y otras funciones",
+        "subtemas": [
+          {
+            "subtema_id": "15.1.1",
+            "titulo": "Parábola, ceros y vértice",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "15.1.2",
+            "titulo": "Funciones constante, valor absoluto e inversa",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "15.1.3",
+            "titulo": "Comparar modelos y restricciones de dominio",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "15.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "15.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "15.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "15.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "15.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "15.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 30,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 16,
+    "titulo": "Trigonometría: razones trigonométricas",
+    "semana": 16,
+    "minutos_dia": 30,
+    "minutos": 210,
+    "objetivo": "Resolver un triángulo rectángulo con razones trigonométricas",
+    "evidencia": "Croquis y dimensiones de rampa",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D107:D113",
+      "tiempos": "Progresión!E17"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "16.1",
+        "titulo": "Trigonometría: razones trigonométricas",
+        "subtemas": [
+          {
+            "subtema_id": "16.1.1",
+            "titulo": "Triángulo rectángulo y teorema de Pitágoras",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "16.1.2",
+            "titulo": "Seno, coseno y tangente",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "16.1.3",
+            "titulo": "Calcular lados y ángulos en una rampa",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "16.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "16.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "16.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "16.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 30,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "16.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 30,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "16.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 30,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 17,
+    "titulo": "Geometría analítica: plano cartesiano y rectas",
+    "semana": 17,
+    "minutos_dia": 35,
+    "minutos": 245,
+    "objetivo": "Representar puntos y rectas y calcular relaciones geométricas",
+    "evidencia": "Plano de pieza con coordenadas",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D114:D120",
+      "tiempos": "Progresión!E18"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "17.1",
+        "titulo": "Geometría analítica: plano cartesiano y rectas",
+        "subtemas": [
+          {
+            "subtema_id": "17.1.1",
+            "titulo": "Coordenadas, distancia y punto medio",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "17.1.2",
+            "titulo": "Pendiente y ecuación de recta",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "17.1.3",
+            "titulo": "Rectas paralelas, perpendiculares y trazado",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "17.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "17.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "17.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "17.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "17.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "17.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 35,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 18,
+    "titulo": "Repaso dirigido: álgebra y ecuaciones (corrige puntos débiles)",
+    "semana": 18,
+    "minutos_dia": 35,
+    "minutos": 245,
+    "objetivo": "Corregir errores algebraicos y resolver un modelo integrado",
+    "evidencia": "Bitácora de errores corregidos",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D121:D127",
+      "tiempos": "Progresión!E19"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "18.1",
+        "titulo": "Repaso dirigido: álgebra y ecuaciones (corrige puntos débiles)",
+        "subtemas": [
+          {
+            "subtema_id": "18.1.1",
+            "titulo": "Diagnosticar errores en expresiones y factorización",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "18.1.2",
+            "titulo": "Reparar ecuaciones y sistemas",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "18.1.3",
+            "titulo": "Problema integrado de presupuesto y dimensiones",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "18.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "18.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "18.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "18.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "18.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "18.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 35,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 19,
+    "titulo": "Repaso dirigido: funciones y trigonometría",
+    "semana": 19,
+    "minutos_dia": 35,
+    "minutos": 245,
+    "objetivo": "Relacionar representaciones y validar dimensiones con trigonometría",
+    "evidencia": "Informe breve de rampa y costo",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D128:D134",
+      "tiempos": "Progresión!E20"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "19.1",
+        "titulo": "Repaso dirigido: funciones y trigonometría",
+        "subtemas": [
+          {
+            "subtema_id": "19.1.1",
+            "titulo": "Comparar tablas, gráficas y fórmulas",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "19.1.2",
+            "titulo": "Recuperar Pitágoras y razones trigonométricas",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "19.1.3",
+            "titulo": "Problema integrado de rampa y costo",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "19.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "19.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "19.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "19.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "19.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "19.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 35,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 20,
+    "titulo": "(Opcional) Introducción a límites",
+    "semana": 20,
+    "minutos_dia": 35,
+    "minutos": 245,
+    "objetivo": "Estimar y calcular límites sencillos distinguiendo valor y aproximación",
+    "evidencia": "Tabla de aproximaciones y explicación",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D135:D141",
+      "tiempos": "Progresión!E21"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "20.1",
+        "titulo": "(Opcional) Introducción a límites",
+        "subtemas": [
+          {
+            "subtema_id": "20.1.1",
+            "titulo": "Aproximación numérica y gráfica",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "20.1.2",
+            "titulo": "Límites sencillos por sustitución y factorización",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "20.1.3",
+            "titulo": "Continuidad e interpretación de límites",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 70,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "20.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "20.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "20.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "20.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 35,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "20.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 35,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "20.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 35,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 21,
+    "titulo": "(Opcional) Introducción a derivadas",
+    "semana": 21,
+    "minutos_dia": 40,
+    "minutos": 280,
+    "objetivo": "Calcular derivadas de polinomios sencillos e interpretar sus unidades",
+    "evidencia": "Comparación de cambio medio e instantáneo",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D142:D148",
+      "tiempos": "Progresión!E22"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "21.1",
+        "titulo": "(Opcional) Introducción a derivadas",
+        "subtemas": [
+          {
+            "subtema_id": "21.1.1",
+            "titulo": "Cambio medio y pendiente de secante",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "21.1.2",
+            "titulo": "Derivada como cambio instantáneo y regla de potencia",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "21.1.3",
+            "titulo": "Interpretar derivada en costo y geometría",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "21.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "21.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "21.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "21.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "21.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "21.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 40,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  },
+  {
+    "modulo_id": 22,
+    "titulo": "Repaso general y puntos débiles",
+    "semana": 22,
+    "minutos_dia": 40,
+    "minutos": 280,
+    "objetivo": "Integrar cálculos, ecuaciones, gráficos y geometría en una decisión",
+    "evidencia": "Proyecto de lote y empaque con explicación",
+    "fuente": {
+      "archivo": "RUTA_ING_realista.xlsx",
+      "hoja": "Plan progresivo",
+      "rango": "D149:D155",
+      "tiempos": "Progresión!E23"
+    },
+    "prerrequisitos": [
+      "Módulos previos pertinentes"
+    ],
+    "temas": [
+      {
+        "tema_id": "22.1",
+        "titulo": "Repaso general y puntos débiles",
+        "subtemas": [
+          {
+            "subtema_id": "22.1.1",
+            "titulo": "Recuperación acumulativa y reparación final",
+            "dias": [
+              1,
+              2
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "22.1.2",
+            "titulo": "Proyecto integrado de lote y empaque",
+            "dias": [
+              3,
+              4
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "22.1.3",
+            "titulo": "Verificación del proyecto y preparación de evaluación",
+            "dias": [
+              5,
+              6
+            ],
+            "minutos": 80,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "distribucion_diaria": [
+      {
+        "dia": 1,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "22.1.1"
+      },
+      {
+        "dia": 2,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "22.1.1"
+      },
+      {
+        "dia": 3,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "22.1.2"
+      },
+      {
+        "dia": 4,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "22.1.2"
+      },
+      {
+        "dia": 5,
+        "minutos": 40,
+        "actividad": "Concepto, ejemplo y práctica guiada",
+        "subtema_id": "22.1.3"
+      },
+      {
+        "dia": 6,
+        "minutos": 40,
+        "actividad": "Recuperación, práctica independiente y explicación",
+        "subtema_id": "22.1.3"
+      },
+      {
+        "dia": 7,
+        "minutos": 40,
+        "actividad": "Evaluación de módulo, corrección y explicación",
+        "subtema_id": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,943 @@
+{
+  "entries": [
+    {
+      "id": "toc-0",
+      "text": "Guía de estudio",
+      "normText": "guiadeestudio"
+    },
+    {
+      "id": "toc-1",
+      "text": "Cómo elegir una ruta",
+      "normText": "comoelegirunaruta"
+    },
+    {
+      "id": "toc-2",
+      "text": "Organización de los bloques",
+      "normText": "organizaciondelosbloques"
+    },
+    {
+      "id": "toc-3",
+      "text": "Qué hacer durante una clase",
+      "normText": "quehacerduranteunaclase"
+    },
+    {
+      "id": "toc-4",
+      "text": "Evaluación y avance",
+      "normText": "evaluacionyavance"
+    },
+    {
+      "id": "toc-5",
+      "text": "Días de fatiga",
+      "normText": "diasdefatiga"
+    },
+    {
+      "id": "toc-6",
+      "text": "Material necesario",
+      "normText": "materialnecesario"
+    },
+    {
+      "id": "toc-7",
+      "text": "Registro de progreso",
+      "normText": "registrodeprogreso"
+    },
+    {
+      "id": "toc-8",
+      "text": "Módulo 0: diagnóstico integrado",
+      "normText": "modulo0diagnosticointegrado"
+    },
+    {
+      "id": "toc-9",
+      "text": "Día 1: operaciones y signos",
+      "normText": "dia1operacionesysignos"
+    },
+    {
+      "id": "toc-10",
+      "text": "Día 2: fracciones y lectura de una tabla",
+      "normText": "dia2fraccionesylecturadeunatabla"
+    },
+    {
+      "id": "toc-11",
+      "text": "Cómo usar el resultado",
+      "normText": "comousarelresultado"
+    },
+    {
+      "id": "toc-12",
+      "text": "Soluciones del diagnóstico",
+      "normText": "solucionesdeldiagnostico"
+    },
+    {
+      "id": "toc-13",
+      "text": "D1: saldo con signo",
+      "normText": "d1saldoconsigno"
+    },
+    {
+      "id": "toc-14",
+      "text": "D2: orden de operaciones",
+      "normText": "d2ordendeoperaciones"
+    },
+    {
+      "id": "toc-15",
+      "text": "D3: suma de medidas",
+      "normText": "d3sumademedidas"
+    },
+    {
+      "id": "toc-16",
+      "text": "D4: patrón de costo",
+      "normText": "d4patrondecosto"
+    },
+    {
+      "id": "toc-17",
+      "text": "Decisión de ruta",
+      "normText": "decisionderuta"
+    },
+    {
+      "id": "toc-18",
+      "text": "Glosario de nivelación",
+      "normText": "glosariodenivelacion"
+    },
+    {
+      "id": "toc-19",
+      "text": "Semana 1: Fracciones: suma y resta",
+      "normText": "semana1fraccionessumayresta"
+    },
+    {
+      "id": "toc-20",
+      "text": "Subtema 1.1.1: Equivalencias, simplificación y diagnóstico",
+      "normText": "subtema111equivalenciassimplificacionydiagnostico"
+    },
+    {
+      "id": "toc-21",
+      "text": "Subtema 1.1.2: Suma y resta con denominador común",
+      "normText": "subtema112sumayrestacondenominadorcomun"
+    },
+    {
+      "id": "toc-22",
+      "text": "Subtema 1.1.3: Denominadores distintos y medidas fraccionarias",
+      "normText": "subtema113denominadoresdistintosymedidasfraccionarias"
+    },
+    {
+      "id": "toc-23",
+      "text": "Evaluación semanal 1",
+      "normText": "evaluacionsemanal1"
+    },
+    {
+      "id": "toc-24",
+      "text": "Solucionario semanal 1",
+      "normText": "solucionariosemanal1"
+    },
+    {
+      "id": "toc-25",
+      "text": "Semana 2: Fracciones: multiplicación y división",
+      "normText": "semana2fraccionesmultiplicacionydivision"
+    },
+    {
+      "id": "toc-26",
+      "text": "Subtema 2.1.1: Multiplicar fracciones y simplificar productos",
+      "normText": "subtema211multiplicarfraccionesysimplificarproductos"
+    },
+    {
+      "id": "toc-27",
+      "text": "Subtema 2.1.2: Dividir fracciones y comprobar con el producto",
+      "normText": "subtema212dividirfraccionesycomprobarconelproducto"
+    },
+    {
+      "id": "toc-28",
+      "text": "Subtema 2.1.3: Cantidades de material y reparto en lotes",
+      "normText": "subtema213cantidadesdematerialyrepartoenlotes"
+    },
+    {
+      "id": "toc-29",
+      "text": "Evaluación semanal 2",
+      "normText": "evaluacionsemanal2"
+    },
+    {
+      "id": "toc-30",
+      "text": "Solucionario semanal 2",
+      "normText": "solucionariosemanal2"
+    },
+    {
+      "id": "toc-31",
+      "text": "Semana 3: Decimales y conversión entre fracciones y decimales",
+      "normText": "semana3decimalesyconversionentrefraccionesydecimales"
+    },
+    {
+      "id": "toc-32",
+      "text": "Subtema 3.1.1: Valor posicional y conversión de representaciones",
+      "normText": "subtema311valorposicionalyconversionderepresentaciones"
+    },
+    {
+      "id": "toc-33",
+      "text": "Subtema 3.1.2: Operaciones con decimales y redondeo",
+      "normText": "subtema312operacionescondecimalesyredondeo"
+    },
+    {
+      "id": "toc-34",
+      "text": "Subtema 3.1.3: Mediciones, unidades y tolerancias",
+      "normText": "subtema313medicionesunidadesytolerancias"
+    },
+    {
+      "id": "toc-35",
+      "text": "Evaluación semanal 3",
+      "normText": "evaluacionsemanal3"
+    },
+    {
+      "id": "toc-36",
+      "text": "Solucionario semanal 3",
+      "normText": "solucionariosemanal3"
+    },
+    {
+      "id": "toc-37",
+      "text": "Semana 4: Potenciación y radicación",
+      "normText": "semana4potenciacionyradicacion"
+    },
+    {
+      "id": "toc-38",
+      "text": "Subtema 4.1.1: Potencias, signos y orden de operaciones",
+      "normText": "subtema411potenciassignosyordendeoperaciones"
+    },
+    {
+      "id": "toc-39",
+      "text": "Subtema 4.1.2: Raíces cuadradas y relación con potencias",
+      "normText": "subtema412raicescuadradasyrelacionconpotencias"
+    },
+    {
+      "id": "toc-40",
+      "text": "Subtema 4.1.3: Áreas, cuadrados y estimación de raíces",
+      "normText": "subtema413areascuadradosyestimacionderaices"
+    },
+    {
+      "id": "toc-41",
+      "text": "Evaluación semanal 4",
+      "normText": "evaluacionsemanal4"
+    },
+    {
+      "id": "toc-42",
+      "text": "Solucionario semanal 4",
+      "normText": "solucionariosemanal4"
+    },
+    {
+      "id": "toc-43",
+      "text": "Semana 5: Notación científica y proporciones",
+      "normText": "semana5notacioncientificayproporciones"
+    },
+    {
+      "id": "toc-44",
+      "text": "Subtema 5.1.1: Escritura y lectura en notación científica",
+      "normText": "subtema511escrituraylecturaennotacioncientifica"
+    },
+    {
+      "id": "toc-45",
+      "text": "Subtema 5.1.2: Razones y proporciones equivalentes",
+      "normText": "subtema512razonesyproporcionesequivalentes"
+    },
+    {
+      "id": "toc-46",
+      "text": "Subtema 5.1.3: Conversión de unidades y escalas de diseño",
+      "normText": "subtema513conversiondeunidadesyescalasdediseno"
+    },
+    {
+      "id": "toc-47",
+      "text": "Evaluación semanal 5",
+      "normText": "evaluacionsemanal5"
+    },
+    {
+      "id": "toc-48",
+      "text": "Solucionario semanal 5",
+      "normText": "solucionariosemanal5"
+    },
+    {
+      "id": "toc-49",
+      "text": "Semana 6: Regla de tres y porcentajes",
+      "normText": "semana6regladetresyporcentajes"
+    },
+    {
+      "id": "toc-50",
+      "text": "Subtema 6.1.1: Proporcionalidad directa e inversa",
+      "normText": "subtema611proporcionalidaddirectaeinversa"
+    },
+    {
+      "id": "toc-51",
+      "text": "Subtema 6.1.2: Porcentaje de una cantidad y variación",
+      "normText": "subtema612porcentajedeunacantidadyvariacion"
+    },
+    {
+      "id": "toc-52",
+      "text": "Subtema 6.1.3: Rendimiento, descuento y desperdicio",
+      "normText": "subtema613rendimientodescuentoydesperdicio"
+    },
+    {
+      "id": "toc-53",
+      "text": "Evaluación semanal 6",
+      "normText": "evaluacionsemanal6"
+    },
+    {
+      "id": "toc-54",
+      "text": "Solucionario semanal 6",
+      "normText": "solucionariosemanal6"
+    },
+    {
+      "id": "toc-55",
+      "text": "Semana 7: Lenguaje algebraico y expresiones algebraicas",
+      "normText": "semana7lenguajealgebraicoyexpresionesalgebraicas"
+    },
+    {
+      "id": "toc-56",
+      "text": "Subtema 7.1.1: Variables, signos y traducción verbal",
+      "normText": "subtema711variablessignosytraduccionverbal"
+    },
+    {
+      "id": "toc-57",
+      "text": "Subtema 7.1.2: Evaluación y términos semejantes",
+      "normText": "subtema712evaluacionyterminossemejantes"
+    },
+    {
+      "id": "toc-58",
+      "text": "Subtema 7.1.3: Expresiones de costo y consumo",
+      "normText": "subtema713expresionesdecostoyconsumo"
+    },
+    {
+      "id": "toc-59",
+      "text": "Evaluación semanal 7",
+      "normText": "evaluacionsemanal7"
+    },
+    {
+      "id": "toc-60",
+      "text": "Solucionario semanal 7",
+      "normText": "solucionariosemanal7"
+    },
+    {
+      "id": "toc-61",
+      "text": "Semana 8: Operaciones con polinomios",
+      "normText": "semana8operacionesconpolinomios"
+    },
+    {
+      "id": "toc-62",
+      "text": "Subtema 8.1.1: Suma y resta de polinomios",
+      "normText": "subtema811sumayrestadepolinomios"
+    },
+    {
+      "id": "toc-63",
+      "text": "Subtema 8.1.2: Producto, distributiva y productos notables",
+      "normText": "subtema812productodistributivayproductosnotables"
+    },
+    {
+      "id": "toc-64",
+      "text": "Subtema 8.1.3: Área algebraica y comprobación numérica",
+      "normText": "subtema813areaalgebraicaycomprobacionnumerica"
+    },
+    {
+      "id": "toc-65",
+      "text": "Evaluación semanal 8",
+      "normText": "evaluacionsemanal8"
+    },
+    {
+      "id": "toc-66",
+      "text": "Solucionario semanal 8",
+      "normText": "solucionariosemanal8"
+    },
+    {
+      "id": "toc-67",
+      "text": "Semana 9: Factorización I (factor común, diferencia de cuadrados)",
+      "normText": "semana9factorizacionifactorcomundiferenciadecuadrados"
+    },
+    {
+      "id": "toc-68",
+      "text": "Subtema 9.1.1: Extraer factor común numérico y literal",
+      "normText": "subtema911extraerfactorcomunnumericoyliteral"
+    },
+    {
+      "id": "toc-69",
+      "text": "Subtema 9.1.2: Diferencia de cuadrados",
+      "normText": "subtema912diferenciadecuadrados"
+    },
+    {
+      "id": "toc-70",
+      "text": "Subtema 9.1.3: Elegir factor y comprobar desarrollando",
+      "normText": "subtema913elegirfactorycomprobardesarrollando"
+    },
+    {
+      "id": "toc-71",
+      "text": "Evaluación semanal 9",
+      "normText": "evaluacionsemanal9"
+    },
+    {
+      "id": "toc-72",
+      "text": "Solucionario semanal 9",
+      "normText": "solucionariosemanal9"
+    },
+    {
+      "id": "toc-73",
+      "text": "Semana 10: Factorización II (trinomios)",
+      "normText": "semana10factorizacioniitrinomios"
+    },
+    {
+      "id": "toc-74",
+      "text": "Subtema 10.1.1: Trinomio cuadrado perfecto",
+      "normText": "subtema1011trinomiocuadradoperfecto"
+    },
+    {
+      "id": "toc-75",
+      "text": "Subtema 10.1.2: Trinomios mónicos con factores enteros",
+      "normText": "subtema1012trinomiosmonicosconfactoresenteros"
+    },
+    {
+      "id": "toc-76",
+      "text": "Subtema 10.1.3: Trinomios no mónicos sencillos y comprobación",
+      "normText": "subtema1013trinomiosnomonicossencillosycomprobacion"
+    },
+    {
+      "id": "toc-77",
+      "text": "Evaluación semanal 10",
+      "normText": "evaluacionsemanal10"
+    },
+    {
+      "id": "toc-78",
+      "text": "Solucionario semanal 10",
+      "normText": "solucionariosemanal10"
+    },
+    {
+      "id": "toc-79",
+      "text": "Semana 11: Ecuaciones lineales de primer grado",
+      "normText": "semana11ecuacioneslinealesdeprimergrado"
+    },
+    {
+      "id": "toc-80",
+      "text": "Subtema 11.1.1: Igualdad, operaciones inversas y comprobación",
+      "normText": "subtema1111igualdadoperacionesinversasycomprobacion"
+    },
+    {
+      "id": "toc-81",
+      "text": "Subtema 11.1.2: Paréntesis, fracciones y despejes",
+      "normText": "subtema1112parentesisfraccionesydespejes"
+    },
+    {
+      "id": "toc-82",
+      "text": "Subtema 11.1.3: Problemas de costo y producción",
+      "normText": "subtema1113problemasdecostoyproduccion"
+    },
+    {
+      "id": "toc-83",
+      "text": "Evaluación semanal 11",
+      "normText": "evaluacionsemanal11"
+    },
+    {
+      "id": "toc-84",
+      "text": "Solucionario semanal 11",
+      "normText": "solucionariosemanal11"
+    },
+    {
+      "id": "toc-85",
+      "text": "Semana 12: Sistemas de ecuaciones lineales (2x2)",
+      "normText": "semana12sistemasdeecuacioneslineales2x2"
+    },
+    {
+      "id": "toc-86",
+      "text": "Subtema 12.1.1: Modelar dos incógnitas y sustitución",
+      "normText": "subtema1211modelardosincognitasysustitucion"
+    },
+    {
+      "id": "toc-87",
+      "text": "Subtema 12.1.2: Eliminación y comprobación doble",
+      "normText": "subtema1212eliminacionycomprobaciondoble"
+    },
+    {
+      "id": "toc-88",
+      "text": "Subtema 12.1.3: Mezclas y combinación de productos",
+      "normText": "subtema1213mezclasycombinaciondeproductos"
+    },
+    {
+      "id": "toc-89",
+      "text": "Evaluación semanal 12",
+      "normText": "evaluacionsemanal12"
+    },
+    {
+      "id": "toc-90",
+      "text": "Solucionario semanal 12",
+      "normText": "solucionariosemanal12"
+    },
+    {
+      "id": "toc-91",
+      "text": "Semana 13: Ecuaciones cuadráticas",
+      "normText": "semana13ecuacionescuadraticas"
+    },
+    {
+      "id": "toc-92",
+      "text": "Subtema 13.1.1: Factorización y principio del producto cero",
+      "normText": "subtema1311factorizacionyprincipiodelproductocero"
+    },
+    {
+      "id": "toc-93",
+      "text": "Subtema 13.1.2: Fórmula general y discriminante",
+      "normText": "subtema1312formulageneralydiscriminante"
+    },
+    {
+      "id": "toc-94",
+      "text": "Subtema 13.1.3: Dimensiones de piezas y elección de raíces",
+      "normText": "subtema1313dimensionesdepiezasyeleccionderaices"
+    },
+    {
+      "id": "toc-95",
+      "text": "Evaluación semanal 13",
+      "normText": "evaluacionsemanal13"
+    },
+    {
+      "id": "toc-96",
+      "text": "Solucionario semanal 13",
+      "normText": "solucionariosemanal13"
+    },
+    {
+      "id": "toc-97",
+      "text": "Semana 14: Funciones: concepto y función lineal",
+      "normText": "semana14funcionesconceptoyfuncionlineal"
+    },
+    {
+      "id": "toc-98",
+      "text": "Subtema 14.1.1: Entrada, salida, dominio y tablas",
+      "normText": "subtema1411entradasalidadominioytablas"
+    },
+    {
+      "id": "toc-99",
+      "text": "Subtema 14.1.2: Pendiente, intercepto y representación gráfica",
+      "normText": "subtema1412pendienteinterceptoyrepresentaciongrafica"
+    },
+    {
+      "id": "toc-100",
+      "text": "Subtema 14.1.3: Costo lineal y punto de equilibrio",
+      "normText": "subtema1413costolinealypuntodeequilibrio"
+    },
+    {
+      "id": "toc-101",
+      "text": "Evaluación semanal 14",
+      "normText": "evaluacionsemanal14"
+    },
+    {
+      "id": "toc-102",
+      "text": "Solucionario semanal 14",
+      "normText": "solucionariosemanal14"
+    },
+    {
+      "id": "toc-103",
+      "text": "Semana 15: Función cuadrática y otras funciones",
+      "normText": "semana15funcioncuadraticayotrasfunciones"
+    },
+    {
+      "id": "toc-104",
+      "text": "Subtema 15.1.1: Parábola, ceros y vértice",
+      "normText": "subtema1511parabolacerosyvertice"
+    },
+    {
+      "id": "toc-105",
+      "text": "Subtema 15.1.2: Funciones constante, valor absoluto e inversa",
+      "normText": "subtema1512funcionesconstantevalorabsolutoeinversa"
+    },
+    {
+      "id": "toc-106",
+      "text": "Subtema 15.1.3: Comparar modelos y restricciones de dominio",
+      "normText": "subtema1513compararmodelosyrestriccionesdedominio"
+    },
+    {
+      "id": "toc-107",
+      "text": "Evaluación semanal 15",
+      "normText": "evaluacionsemanal15"
+    },
+    {
+      "id": "toc-108",
+      "text": "Solucionario semanal 15",
+      "normText": "solucionariosemanal15"
+    },
+    {
+      "id": "toc-109",
+      "text": "Semana 16: Trigonometría: razones trigonométricas",
+      "normText": "semana16trigonometriarazonestrigonometricas"
+    },
+    {
+      "id": "toc-110",
+      "text": "Subtema 16.1.1: Triángulo rectángulo y teorema de Pitágoras",
+      "normText": "subtema1611triangulorectanguloyteoremadepitagoras"
+    },
+    {
+      "id": "toc-111",
+      "text": "Subtema 16.1.2: Seno, coseno y tangente",
+      "normText": "subtema1612senocosenoytangente"
+    },
+    {
+      "id": "toc-112",
+      "text": "Subtema 16.1.3: Calcular lados y ángulos en una rampa",
+      "normText": "subtema1613calcularladosyangulosenunarampa"
+    },
+    {
+      "id": "toc-113",
+      "text": "Evaluación semanal 16",
+      "normText": "evaluacionsemanal16"
+    },
+    {
+      "id": "toc-114",
+      "text": "Solucionario semanal 16",
+      "normText": "solucionariosemanal16"
+    },
+    {
+      "id": "toc-115",
+      "text": "Semana 17: Geometría analítica: plano cartesiano y rectas",
+      "normText": "semana17geometriaanaliticaplanocartesianoyrectas"
+    },
+    {
+      "id": "toc-116",
+      "text": "Subtema 17.1.1: Coordenadas, distancia y punto medio",
+      "normText": "subtema1711coordenadasdistanciaypuntomedio"
+    },
+    {
+      "id": "toc-117",
+      "text": "Subtema 17.1.2: Pendiente y ecuación de recta",
+      "normText": "subtema1712pendienteyecuacionderecta"
+    },
+    {
+      "id": "toc-118",
+      "text": "Subtema 17.1.3: Rectas paralelas, perpendiculares y trazado",
+      "normText": "subtema1713rectasparalelasperpendicularesytrazado"
+    },
+    {
+      "id": "toc-119",
+      "text": "Evaluación semanal 17",
+      "normText": "evaluacionsemanal17"
+    },
+    {
+      "id": "toc-120",
+      "text": "Solucionario semanal 17",
+      "normText": "solucionariosemanal17"
+    },
+    {
+      "id": "toc-121",
+      "text": "Semana 18: Repaso dirigido: álgebra y ecuaciones (corrige puntos débiles)",
+      "normText": "semana18repasodirigidoalgebrayecuacionescorrigepuntosdebiles"
+    },
+    {
+      "id": "toc-122",
+      "text": "Subtema 18.1.1: Diagnosticar errores en expresiones y factorización",
+      "normText": "subtema1811diagnosticarerroresenexpresionesyfactorizacion"
+    },
+    {
+      "id": "toc-123",
+      "text": "Subtema 18.1.2: Reparar ecuaciones y sistemas",
+      "normText": "subtema1812repararecuacionesysistemas"
+    },
+    {
+      "id": "toc-124",
+      "text": "Subtema 18.1.3: Problema integrado de presupuesto y dimensiones",
+      "normText": "subtema1813problemaintegradodepresupuestoydimensiones"
+    },
+    {
+      "id": "toc-125",
+      "text": "Evaluación semanal 18",
+      "normText": "evaluacionsemanal18"
+    },
+    {
+      "id": "toc-126",
+      "text": "Solucionario semanal 18",
+      "normText": "solucionariosemanal18"
+    },
+    {
+      "id": "toc-127",
+      "text": "Semana 19: Repaso dirigido: funciones y trigonometría",
+      "normText": "semana19repasodirigidofuncionesytrigonometria"
+    },
+    {
+      "id": "toc-128",
+      "text": "Subtema 19.1.1: Comparar tablas, gráficas y fórmulas",
+      "normText": "subtema1911comparartablasgraficasyformulas"
+    },
+    {
+      "id": "toc-129",
+      "text": "Subtema 19.1.2: Recuperar Pitágoras y razones trigonométricas",
+      "normText": "subtema1912recuperarpitagorasyrazonestrigonometricas"
+    },
+    {
+      "id": "toc-130",
+      "text": "Subtema 19.1.3: Problema integrado de rampa y costo",
+      "normText": "subtema1913problemaintegradoderampaycosto"
+    },
+    {
+      "id": "toc-131",
+      "text": "Evaluación semanal 19",
+      "normText": "evaluacionsemanal19"
+    },
+    {
+      "id": "toc-132",
+      "text": "Solucionario semanal 19",
+      "normText": "solucionariosemanal19"
+    },
+    {
+      "id": "toc-133",
+      "text": "Semana 20: (Opcional) Introducción a límites",
+      "normText": "semana20opcionalintroduccionalimites"
+    },
+    {
+      "id": "toc-134",
+      "text": "Subtema 20.1.1: Aproximación numérica y gráfica",
+      "normText": "subtema2011aproximacionnumericaygrafica"
+    },
+    {
+      "id": "toc-135",
+      "text": "Subtema 20.1.2: Límites sencillos por sustitución y factorización",
+      "normText": "subtema2012limitessencillosporsustitucionyfactorizacion"
+    },
+    {
+      "id": "toc-136",
+      "text": "Subtema 20.1.3: Continuidad e interpretación de límites",
+      "normText": "subtema2013continuidadeinterpretaciondelimites"
+    },
+    {
+      "id": "toc-137",
+      "text": "Evaluación semanal 20",
+      "normText": "evaluacionsemanal20"
+    },
+    {
+      "id": "toc-138",
+      "text": "Solucionario semanal 20",
+      "normText": "solucionariosemanal20"
+    },
+    {
+      "id": "toc-139",
+      "text": "Ruta alternativa de semana 20",
+      "normText": "rutaalternativadesemana20"
+    },
+    {
+      "id": "toc-140",
+      "text": "Semana 21: (Opcional) Introducción a derivadas",
+      "normText": "semana21opcionalintroduccionaderivadas"
+    },
+    {
+      "id": "toc-141",
+      "text": "Subtema 21.1.1: Cambio medio y pendiente de secante",
+      "normText": "subtema2111cambiomedioypendientedesecante"
+    },
+    {
+      "id": "toc-142",
+      "text": "Subtema 21.1.2: Derivada como cambio instantáneo y regla de potencia",
+      "normText": "subtema2112derivadacomocambioinstantaneoyregladepotencia"
+    },
+    {
+      "id": "toc-143",
+      "text": "Subtema 21.1.3: Interpretar derivada en costo y geometría",
+      "normText": "subtema2113interpretarderivadaencostoygeometria"
+    },
+    {
+      "id": "toc-144",
+      "text": "Evaluación semanal 21",
+      "normText": "evaluacionsemanal21"
+    },
+    {
+      "id": "toc-145",
+      "text": "Solucionario semanal 21",
+      "normText": "solucionariosemanal21"
+    },
+    {
+      "id": "toc-146",
+      "text": "Ruta alternativa de semana 21",
+      "normText": "rutaalternativadesemana21"
+    },
+    {
+      "id": "toc-147",
+      "text": "Semana 22: Repaso general y puntos débiles",
+      "normText": "semana22repasogeneralypuntosdebiles"
+    },
+    {
+      "id": "toc-148",
+      "text": "Subtema 22.1.1: Recuperación acumulativa y reparación final",
+      "normText": "subtema2211recuperacionacumulativayreparacionfinal"
+    },
+    {
+      "id": "toc-149",
+      "text": "Subtema 22.1.2: Proyecto integrado de lote y empaque",
+      "normText": "subtema2212proyectointegradodeloteyempaque"
+    },
+    {
+      "id": "toc-150",
+      "text": "Subtema 22.1.3: Verificación del proyecto y preparación de evaluación",
+      "normText": "subtema2213verificaciondelproyectoypreparaciondeevaluacion"
+    },
+    {
+      "id": "toc-151",
+      "text": "Evaluación semanal 22",
+      "normText": "evaluacionsemanal22"
+    },
+    {
+      "id": "toc-152",
+      "text": "Solucionario semanal 22",
+      "normText": "solucionariosemanal22"
+    },
+    {
+      "id": "toc-153",
+      "text": "Guía de acompañamiento",
+      "normText": "guiadeacompanamiento"
+    },
+    {
+      "id": "toc-154",
+      "text": "Guía de recursos visuales",
+      "normText": "guiaderecursosvisuales"
+    },
+    {
+      "id": "toc-155",
+      "text": "REFERENCIAS Y SUSTENTO ACADÉMICO",
+      "normText": "referenciasysustentoacademico"
+    }
+  ],
+  "pageMap": {
+    "toc-0": 8,
+    "toc-1": 8,
+    "toc-2": 8,
+    "toc-3": 9,
+    "toc-4": 9,
+    "toc-5": 10,
+    "toc-6": 10,
+    "toc-7": 10,
+    "toc-8": 11,
+    "toc-9": 11,
+    "toc-10": 11,
+    "toc-11": 12,
+    "toc-12": 13,
+    "toc-13": 13,
+    "toc-14": 13,
+    "toc-15": 13,
+    "toc-16": 13,
+    "toc-17": 13,
+    "toc-18": 14,
+    "toc-19": 16,
+    "toc-20": 16,
+    "toc-21": 19,
+    "toc-22": 23,
+    "toc-23": 27,
+    "toc-24": 27,
+    "toc-25": 29,
+    "toc-26": 29,
+    "toc-27": 32,
+    "toc-28": 36,
+    "toc-29": 40,
+    "toc-30": 41,
+    "toc-31": 43,
+    "toc-32": 43,
+    "toc-33": 46,
+    "toc-34": 50,
+    "toc-35": 54,
+    "toc-36": 54,
+    "toc-37": 56,
+    "toc-38": 56,
+    "toc-39": 59,
+    "toc-40": 63,
+    "toc-41": 66,
+    "toc-42": 67,
+    "toc-43": 69,
+    "toc-44": 69,
+    "toc-45": 72,
+    "toc-46": 76,
+    "toc-47": 79,
+    "toc-48": 80,
+    "toc-49": 82,
+    "toc-50": 82,
+    "toc-51": 85,
+    "toc-52": 89,
+    "toc-53": 93,
+    "toc-54": 93,
+    "toc-55": 95,
+    "toc-56": 95,
+    "toc-57": 98,
+    "toc-58": 102,
+    "toc-59": 106,
+    "toc-60": 106,
+    "toc-61": 108,
+    "toc-62": 108,
+    "toc-63": 111,
+    "toc-64": 115,
+    "toc-65": 119,
+    "toc-66": 119,
+    "toc-67": 121,
+    "toc-68": 121,
+    "toc-69": 124,
+    "toc-70": 128,
+    "toc-71": 132,
+    "toc-72": 133,
+    "toc-73": 135,
+    "toc-74": 135,
+    "toc-75": 138,
+    "toc-76": 142,
+    "toc-77": 146,
+    "toc-78": 147,
+    "toc-79": 149,
+    "toc-80": 149,
+    "toc-81": 153,
+    "toc-82": 156,
+    "toc-83": 160,
+    "toc-84": 161,
+    "toc-85": 163,
+    "toc-86": 163,
+    "toc-87": 166,
+    "toc-88": 170,
+    "toc-89": 174,
+    "toc-90": 175,
+    "toc-91": 177,
+    "toc-92": 177,
+    "toc-93": 180,
+    "toc-94": 184,
+    "toc-95": 188,
+    "toc-96": 189,
+    "toc-97": 191,
+    "toc-98": 191,
+    "toc-99": 195,
+    "toc-100": 199,
+    "toc-101": 203,
+    "toc-102": 204,
+    "toc-103": 206,
+    "toc-104": 206,
+    "toc-105": 210,
+    "toc-106": 214,
+    "toc-107": 219,
+    "toc-108": 219,
+    "toc-109": 221,
+    "toc-110": 221,
+    "toc-111": 224,
+    "toc-112": 227,
+    "toc-113": 230,
+    "toc-114": 231,
+    "toc-115": 233,
+    "toc-116": 233,
+    "toc-117": 235,
+    "toc-118": 238,
+    "toc-119": 241,
+    "toc-120": 242,
+    "toc-121": 243,
+    "toc-122": 243,
+    "toc-123": 245,
+    "toc-124": 248,
+    "toc-125": 251,
+    "toc-126": 252,
+    "toc-127": 253,
+    "toc-128": 253,
+    "toc-129": 256,
+    "toc-130": 259,
+    "toc-131": 262,
+    "toc-132": 262,
+    "toc-133": 264,
+    "toc-134": 264,
+    "toc-135": 266,
+    "toc-136": 269,
+    "toc-137": 272,
+    "toc-138": 272,
+    "toc-139": 273,
+    "toc-140": 274,
+    "toc-141": 274,
+    "toc-142": 277,
+    "toc-143": 279,
+    "toc-144": 282,
+    "toc-145": 283,
+    "toc-146": 283,
+    "toc-147": 285,
+    "toc-148": 285,
+    "toc-149": 287,
+    "toc-150": 290,
+    "toc-151": 293,
+    "toc-152": 294,
+    "toc-153": 295,
+    "toc-154": 296,
+    "toc-155": 298
+  },
+  "pages": 314
+}

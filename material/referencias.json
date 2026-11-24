@@ -1,0 +1,644 @@
+{
+  "date": "2026-10-04",
+  "additional_references": [
+    {
+      "id": "CM9",
+      "title": "Contemporary Mathematics, capítulo 9: Key Concepts",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/9-key-concepts",
+      "year": 2023,
+      "author": "Donna Kirk",
+      "quote": "Volume is a measure of the space contained within or occupied by three-dimensional objects.",
+      "relevance": "Apoyo adicional para unidades, área y volumen de las semanas3,4 y22.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    },
+    {
+      "id": "SC",
+      "title": "Introductory Statistics 2e, 2.5: Measures of the Center of the Data",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data",
+      "year": 2023,
+      "author": "Barbara Illowsky y Susan Dean",
+      "quote": "The mean is the most common measure of the center.",
+      "relevance": "Media, mediana y efecto de valores extremos.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    },
+    {
+      "id": "SS",
+      "title": "Introductory Statistics 2e, 2.7: Measures of the Spread of the Data",
+      "url": "https://openstax.org/books/introductory-statistics-2e/pages/2-7-measures-of-the-spread-of-the-data",
+      "year": 2023,
+      "author": "Barbara Illowsky y Susan Dean",
+      "quote": "For the population standard deviation, the denominator is N, the number of items in the population.",
+      "relevance": "Distingue varianza y desviación poblacional de las muestrales.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    },
+    {
+      "id": "SB",
+      "title": "Introductory Business Statistics 2e, capítulo 2: Chapter Review",
+      "url": "https://openstax.org/books/introductory-business-statistics-2e/pages/2-chapter-review",
+      "year": 2023,
+      "author": "Alexander Holmes, Barbara Illowsky y Susan Dean",
+      "quote": "The standard deviation can help you calculate the spread of data.",
+      "relevance": "Resumen de medidas de centro y dispersión, con fórmulas para muestra y población.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    },
+    {
+      "id": "NL",
+      "title": "NIST/SEMATECH e-Handbook, 1.3.5.1: Measures of Location",
+      "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm",
+      "year": null,
+      "author": "NIST/SEMATECH",
+      "quote": "the mean is the sum of the data points divided by the number of data points.",
+      "relevance": "Definición técnica de media y mediana; material clásico, fecha editorial no visible.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    },
+    {
+      "id": "NS",
+      "title": "NIST/SEMATECH e-Handbook, 1.3.5.6: Measures of Scale",
+      "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda356.htm",
+      "year": null,
+      "author": "NIST/SEMATECH",
+      "quote": "the range is the largest value minus the smallest value in a data set.",
+      "relevance": "Rango y dispersión. La página utiliza varianza muestral N−1; no sustituye la fórmula poblacional del curso.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto / manual técnico oficial"
+    }
+  ],
+  "alternative_mapping": [
+    {
+      "week": 20,
+      "references": [
+        "SC",
+        "SB",
+        "NL"
+      ]
+    },
+    {
+      "week": 21,
+      "references": [
+        "SS",
+        "SB",
+        "NS"
+      ]
+    }
+  ],
+  "weekly_mapping": [
+    {
+      "week": 1,
+      "topic": "Fracciones: suma y resta",
+      "references": [
+        "CM3",
+        "P4",
+        "LF"
+      ]
+    },
+    {
+      "week": 2,
+      "topic": "Fracciones: multiplicación y división",
+      "references": [
+        "CM3",
+        "P4",
+        "LF"
+      ]
+    },
+    {
+      "week": 3,
+      "topic": "Decimales y conversión entre fracciones y decimales",
+      "references": [
+        "CM3",
+        "P5",
+        "LD"
+      ]
+    },
+    {
+      "week": 4,
+      "topic": "Potenciación y radicación",
+      "references": [
+        "CM3",
+        "C1",
+        "LE"
+      ]
+    },
+    {
+      "week": 5,
+      "topic": "Notación científica y proporciones",
+      "references": [
+        "CM3",
+        "CM5",
+        "LE"
+      ]
+    },
+    {
+      "week": 6,
+      "topic": "Regla de tres y porcentajes",
+      "references": [
+        "CM5",
+        "P6",
+        "LP"
+      ]
+    },
+    {
+      "week": 7,
+      "topic": "Lenguaje algebraico y expresiones algebraicas",
+      "references": [
+        "CM5",
+        "C1",
+        "LA"
+      ]
+    },
+    {
+      "week": 8,
+      "topic": "Operaciones con polinomios",
+      "references": [
+        "C1",
+        "C5",
+        "LM"
+      ]
+    },
+    {
+      "week": 9,
+      "topic": "Factorización I (factor común, diferencia de cuadrados)",
+      "references": [
+        "C1",
+        "C2",
+        "LS"
+      ]
+    },
+    {
+      "week": 10,
+      "topic": "Factorización II (trinomios)",
+      "references": [
+        "C1",
+        "C2",
+        "LT"
+      ]
+    },
+    {
+      "week": 11,
+      "topic": "Ecuaciones lineales de primer grado",
+      "references": [
+        "CM5",
+        "C2",
+        "LL"
+      ]
+    },
+    {
+      "week": 12,
+      "topic": "Sistemas de ecuaciones lineales (2x2)",
+      "references": [
+        "CM5",
+        "C7",
+        "LX"
+      ]
+    },
+    {
+      "week": 13,
+      "topic": "Ecuaciones cuadráticas",
+      "references": [
+        "C2",
+        "C5",
+        "LQ"
+      ]
+    },
+    {
+      "week": 14,
+      "topic": "Funciones: concepto y función lineal",
+      "references": [
+        "C3",
+        "C4",
+        "LLine"
+      ]
+    },
+    {
+      "week": 15,
+      "topic": "Función cuadrática y otras funciones",
+      "references": [
+        "C3",
+        "C5",
+        "LQ"
+      ]
+    },
+    {
+      "week": 16,
+      "topic": "Trigonometría: razones trigonométricas",
+      "references": [
+        "T7",
+        "LG",
+        "BT"
+      ]
+    },
+    {
+      "week": 17,
+      "topic": "Geometría analítica: plano cartesiano y rectas",
+      "references": [
+        "C2",
+        "C4",
+        "LG"
+      ]
+    },
+    {
+      "week": 18,
+      "topic": "Repaso dirigido: álgebra y ecuaciones",
+      "references": [
+        "C1",
+        "C2",
+        "LL"
+      ]
+    },
+    {
+      "week": 19,
+      "topic": "Repaso dirigido: funciones y trigonometría",
+      "references": [
+        "C3",
+        "T7",
+        "BT"
+      ]
+    },
+    {
+      "week": 20,
+      "topic": "(Opcional) Introducción a límites",
+      "references": [
+        "K2",
+        "K3",
+        "BL"
+      ]
+    },
+    {
+      "week": 21,
+      "topic": "(Opcional) Introducción a derivadas",
+      "references": [
+        "K2",
+        "K3",
+        "BL"
+      ]
+    },
+    {
+      "week": 22,
+      "topic": "Repaso general y puntos débiles",
+      "references": [
+        "CM3",
+        "CM5",
+        "LA"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CM3",
+      "title": "Contemporary Mathematics, cap. 3: Key Concepts",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/3-key-concepts",
+      "year": 2023,
+      "author": "Donna Kirk",
+      "quote": "Rational numbers are fractions of integers",
+      "relevance": "Números racionales, jerarquía, exponentes y notación científica.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "CM5",
+      "title": "Contemporary Mathematics, cap. 5: Key Concepts",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/5-key-concepts",
+      "year": 2023,
+      "author": "Donna Kirk",
+      "quote": "When two ratios are equal, we say they are in proportion or are proportional.",
+      "relevance": "Proporciones, ecuaciones, funciones y sistemas.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "P4",
+      "title": "Prealgebra 2e, cap. 4: Key Concepts",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/4-key-concepts",
+      "year": 2020,
+      "author": "Marecek, Anthony-Smith y Mathis",
+      "quote": "Any number, except zero, divided by itself is one.",
+      "relevance": "Equivalencia y cuatro operaciones con fracciones.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "P5",
+      "title": "Prealgebra 2e, 5.2: Decimal Operations",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/5-2-decimal-operations",
+      "year": 2020,
+      "author": "Marecek, Anthony-Smith y Mathis",
+      "quote": "Decimal Operations",
+      "relevance": "Operaciones decimales; extracto del encabezado verificado.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "P6",
+      "title": "Prealgebra 2e, cap. 6: Key Concepts",
+      "url": "https://openstax.org/books/prealgebra-2e/pages/6-key-concepts",
+      "year": 2020,
+      "author": "Marecek, Anthony-Smith y Mathis",
+      "quote": "Write the percent as a ratio with the denominator 100.",
+      "relevance": "Porcentajes y comprobación de problemas.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C1",
+      "title": "College Algebra 2e, cap. 1: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/1-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "The order of operations is used to evaluate expressions.",
+      "relevance": "Expresiones, radicales, polinomios y factorización.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C2",
+      "title": "College Algebra 2e, cap. 2: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/2-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "The distance formula is derived from the Pythagorean Theorem",
+      "relevance": "Rectas, distancias, ecuaciones lineales y cuadráticas.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C3",
+      "title": "College Algebra 2e, cap. 3: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/3-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "A relation is a set of ordered pairs.",
+      "relevance": "Funciones, dominio y rango.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C4",
+      "title": "College Algebra 2e, cap. 4: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/4-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "Slope is a rate of change.",
+      "relevance": "Pendiente, intersecciones y modelación lineal.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C5",
+      "title": "College Algebra 2e, cap. 5: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/5-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "A polynomial function of degree two is called a quadratic function.",
+      "relevance": "Parábolas, vértice y ceros.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "C7",
+      "title": "College Algebra 2e, cap. 7: Key Concepts",
+      "url": "https://openstax.org/books/college-algebra-2e/pages/7-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "Systems of equations are classified as independent with one solution, dependent with an infinite number of solutions, or inconsistent with no solution.",
+      "relevance": "Sistemas 2×2 y comprobación.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "T7",
+      "title": "Algebra and Trigonometry 2e, cap. 7: Key Concepts",
+      "url": "https://openstax.org/books/algebra-and-trigonometry-2e/pages/7-key-concepts",
+      "year": 2021,
+      "author": "Jay Abramson",
+      "quote": "We can define trigonometric functions as ratios of the side lengths of a right triangle.",
+      "relevance": "Razones trigonométricas, grados y radianes.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "K2",
+      "title": "Calculus Volume 1, cap. 2: Key Concepts",
+      "url": "https://openstax.org/books/calculus-volume-1/pages/2-key-concepts",
+      "year": 2016,
+      "author": "Gilbert Strang y Edwin Herman",
+      "quote": "A table of values or graph may be used to estimate a limit.",
+      "relevance": "Límites y continuidad; texto clásico estable anterior a 2018.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "K3",
+      "title": "Calculus Volume 1, cap. 3: Key Concepts",
+      "url": "https://openstax.org/books/calculus-volume-1/pages/3-key-concepts",
+      "year": 2016,
+      "author": "Gilbert Strang y Edwin Herman",
+      "quote": "The derivative of a constant function is zero.",
+      "relevance": "Derivada y reglas; texto clásico estable anterior a 2018.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LF",
+      "title": "Elementary Algebra, 1.6: Operations with Fractions",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/01:_Arithmetic_Review/1.06:_Operations_with_Fractions",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "Addition and Subtraction of Fractions",
+      "relevance": "Suma, resta, producto y cociente; encabezado verificado.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LD",
+      "title": "Elementary Algebra, 1.7: Decimal Fractions",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/01:_Arithmetic_Review/1.07:_Decimal_Fractions",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "A decimal fraction is a fraction in which the denominator is a power of 10.",
+      "relevance": "Conversión decimal/fracción. Página actualizada 2023-06-04; publicación original sin verificar.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LP",
+      "title": "Elementary Algebra, 1.8: Percent",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/01:_Arithmetic_Review/1.08:_Percent",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "Percent means “for each hundred” or “for every hundred.”",
+      "relevance": "Relación fracción, decimal y porcentaje.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LE",
+      "title": "Elementary Algebra, 2.5: Exponents",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/02:_Basic_Properties_of_Real_Numbers/2.05:_Exponents",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "An exponent records the number of identical factors in multiplication.",
+      "relevance": "Potencias. Página actualizada 2023-06-04; publicación original sin verificar.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LA",
+      "title": "Elementary Algebra, 4.2: Algebraic Expressions",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/04:_Algebraic_Expressions_and_Equations/4.02:_Algebraic_Expressions",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "An algebraic expression is a number, a letter, or a collection of numbers and letters along with meaningful signs of operation.",
+      "relevance": "Términos, factores y expresiones.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LM",
+      "title": "Elementary Algebra, 4.6: Combining Polynomials Using Multiplication",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/04:_Algebraic_Expressions_and_Equations/4.06:_Combining_Polynomials_Using_Multiplication",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "Multiplying a polynomial by a monomial is a direct application of the distributive property.",
+      "relevance": "Producto de polinomios.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LS",
+      "title": "Elementary Algebra, 6.6: Factoring Two Special Products",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/06:_Factoring_Polynomials/6.06:_Factoring_Two_Special_Products",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "Now we can see a difference of two squares",
+      "relevance": "Factor común previo y diferencia de cuadrados.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LT",
+      "title": "Elementary Algebra, 6.7: Factoring Trinomials with Leading Coefficient 1",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/06:_Factoring_Polynomials/6.07:_Factoring_Trinomials_with_Leading_Coefficient_1",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "The required numbers are 3 and 2.",
+      "relevance": "Ejemplo x²+5x+6=(x+3)(x+2); números escritos tipográficamente en la fuente.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LL",
+      "title": "Elementary Algebra, cap. 5: Solving Linear Equations and Inequalities",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/05:_Solving_Linear_Equations_and_Inequalities",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "Solving Linear Equations and Inequalities",
+      "relevance": "Índice de procedimientos, ejemplos y práctica; extracto del encabezado.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LX",
+      "title": "Elementary Algebra, 11.3: Elimination by Substitution",
+      "url": "https://math.libretexts.org/Bookshelves/Algebra/Elementary_Algebra_(Ellis_and_Burzynski)/11:_Systems_of_Linear_Equations/11.03:_Elimination_by_Substitution",
+      "year": null,
+      "author": "Denny Burzynski y Wade Ellis Jr.",
+      "quote": "We can make this elimination by substitution.",
+      "relevance": "Sustitución de sistemas.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LQ",
+      "title": "Cosumnes River College, 2.3: Quadratic Functions",
+      "url": "https://math.libretexts.org/Courses/Cosumnes_River_College/Math_372:_College_Algebra_for_Calculus/02:_Linear_and_Quadratic_Functions/2.03:_Quadratic_Functions",
+      "year": null,
+      "author": "Carl Stitz y Jeff Zeager; adaptación Cosumnes River College",
+      "quote": "Profit = Revenue - Cost",
+      "relevance": "Cuadráticas, vértice y contexto productivo; no trasladar ejemplos de la fuente.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LLine",
+      "title": "Cosumnes River College, 2.1: Linear Functions",
+      "url": "https://math.libretexts.org/Courses/Cosumnes_River_College/Math_372:_College_Algebra_for_Calculus/02:_Linear_and_Quadratic_Functions/2.01:_Linear_Functions",
+      "year": null,
+      "author": "Carl Stitz y Jeff Zeager; adaptación Cosumnes River College",
+      "quote": "Average Rate of Change",
+      "relevance": "Funciones afines y tasa media. Actualización visible2024-09-14; original anterior, año sin verificar.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "LG",
+      "title": "Cosumnes River College, 3.5: Pythagorean Theorem, Distance Formula, and Midpoint Formula",
+      "url": "https://math.libretexts.org/Courses/Cosumnes_River_College/Corequisite_Codex/03:_Geometry/3.05:_The_Pythagorean_Theorem_Distance_Formula_and_Midpoint_Formula",
+      "year": null,
+      "author": "Cosumnes River College",
+      "quote": "The distance formula is the Pythagorean Theorem applied to the horizontal change",
+      "relevance": "Distancia, punto medio y triángulo rectángulo.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "BT",
+      "title": "Stitz y Zeager, B.2: Right Triangle Trigonometry",
+      "url": "https://stitz-zeager.com/AppendixB-2.pdf",
+      "year": null,
+      "author": "Carl Stitz y Jeff Zeager",
+      "quote": "Right Triangle Trigonometry",
+      "relevance": "Apéndice8páginas, razones y resolución de triángulos; año original no visible.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    },
+    {
+      "id": "BL",
+      "title": "Active Calculus, 1.7: Limits, Continuity, and Differentiability",
+      "url": "https://math.libretexts.org/Bookshelves/Calculus/Active_Calculus_(Boelkins_et_al.)/01:_Understanding_the_Derivative/1.07:_Limits_Continuity_and_Differentiability",
+      "year": null,
+      "author": "Matthew Boelkins et al.",
+      "quote": "Precisely because the left and right limits are not equal, the overall limit",
+      "relevance": "Límites laterales, continuidad y diferenciabilidad.",
+      "verified": "2026-10-04",
+      "type": "Libro educativo abierto",
+      "status": "Contenido y URL consultados mediante navegador web; revisión del curso registrada en REPORTE_VERIFICACION.md"
+    }
+  ],
+  "course_audit": {
+    "date": "2026-10-04",
+    "report": "../REPORTE_VERIFICACION.md",
+    "result": "Contenido matemático revisado sin errores críticos pendientes; excepción de actualidad documentada; pilotaje pendiente"
+  }
+}
